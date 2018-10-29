@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		BBF3F55721868DCD00DE6925 /* Mac_Project18.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Mac_Project18.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BBF3F55721868DCD00DE6925 /* Mac_Project18_Bindings.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Mac_Project18_Bindings.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBF3F55A21868DCD00DE6925 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BBF3F55C21868DCD00DE6925 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		BBF3F55E21868DD100DE6925 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -45,7 +45,7 @@
 		BBF3F55821868DCD00DE6925 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BBF3F55721868DCD00DE6925 /* Mac_Project18.app */,
+				BBF3F55721868DCD00DE6925 /* Mac_Project18_Bindings.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -66,9 +66,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BBF3F55621868DCD00DE6925 /* Mac_Project18 */ = {
+		BBF3F55621868DCD00DE6925 /* Mac_Project18_Bindings */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BBF3F56721868DD100DE6925 /* Build configuration list for PBXNativeTarget "Mac_Project18" */;
+			buildConfigurationList = BBF3F56721868DD100DE6925 /* Build configuration list for PBXNativeTarget "Mac_Project18_Bindings" */;
 			buildPhases = (
 				BBF3F55321868DCD00DE6925 /* Sources */,
 				BBF3F55421868DCD00DE6925 /* Frameworks */,
@@ -78,9 +78,9 @@
 			);
 			dependencies = (
 			);
-			name = Mac_Project18;
+			name = Mac_Project18_Bindings;
 			productName = Mac_Project18;
-			productReference = BBF3F55721868DCD00DE6925 /* Mac_Project18.app */;
+			productReference = BBF3F55721868DCD00DE6925 /* Mac_Project18_Bindings.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -98,7 +98,7 @@
 					};
 				};
 			};
-			buildConfigurationList = BBF3F55221868DCC00DE6925 /* Build configuration list for PBXProject "Mac_Project18" */;
+			buildConfigurationList = BBF3F55221868DCC00DE6925 /* Build configuration list for PBXProject "Mac_Project18_Bindings" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -111,7 +111,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BBF3F55621868DCD00DE6925 /* Mac_Project18 */,
+				BBF3F55621868DCD00DE6925 /* Mac_Project18_Bindings */,
 			);
 		};
 /* End PBXProject section */
@@ -308,7 +308,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BBF3F55221868DCC00DE6925 /* Build configuration list for PBXProject "Mac_Project18" */ = {
+		BBF3F55221868DCC00DE6925 /* Build configuration list for PBXProject "Mac_Project18_Bindings" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BBF3F56521868DD100DE6925 /* Debug */,
@@ -317,7 +317,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BBF3F56721868DD100DE6925 /* Build configuration list for PBXNativeTarget "Mac_Project18" */ = {
+		BBF3F56721868DD100DE6925 /* Build configuration list for PBXNativeTarget "Mac_Project18_Bindings" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BBF3F56821868DD100DE6925 /* Debug */,
